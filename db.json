@@ -1,5 +1,6 @@
 {
-  "user": { 
+  "users": [
+    { 
     "id": 1, 
     "first_name": "John" , 
     "last_name": "Doe", 
@@ -7,4 +8,20 @@
     "gender": "M", 
     "height": 175
   },
+   { 
+    "id": 2, 
+    "first_name": "Jane" , 
+    "last_name": "Doe", 
+    "age": "24", 
+    "gender": "F", 
+    "height": 155
+  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

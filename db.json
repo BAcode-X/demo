@@ -15,6 +15,22 @@
     "age": "24", 
     "gender": "F", 
     "height": 155
+  },
+    { 
+    "id": 3, 
+    "first_name": "Asche" , 
+    "last_name": "Denis", 
+    "age": "23", 
+    "gender": "M", 
+    "height": 185
+  },
+    { 
+    "id": 4, 
+    "first_name": "Jack" , 
+    "last_name": "Mikas", 
+    "age": "34", 
+    "gender": "M", 
+    "height": 170
   }
   ]
 }
